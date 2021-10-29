@@ -1,0 +1,2 @@
+rootProject.name = "Tokopedia"
+include ':app'
